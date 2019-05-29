@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1559156806566,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5.c683fdc9e60be063658e.js",
+        "/6.84c01fa4bc3aeae96c55.js",
+        "/es2015-polyfills.c5dd28b362270c767b34.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.fe6afe71a4391b419264.js",
+        "/polyfills.8bbb231b43165d65d357.js",
+        "/runtime.8791bb6c2cf1861bef56.js",
+        "/styles.038a72fc6e916ec64f54.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/default-user.png",
+        "/assets/images/login-background.jpg",
+        "/assets/images/register-background.jpg",
+        "/login-background.0cd4b32f27a02a187384.jpg",
+        "/register-background.c8908b2ad2922822ae5e.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5.c683fdc9e60be063658e.js": "07d8977ffe3254dd27dc0642d5f153c9b661c436",
+    "/6.84c01fa4bc3aeae96c55.js": "bc3d09d0daf69c92f8b7796cc66ba5219cd30ee2",
+    "/assets/icons/icon-128x128.png": "da5b40cc0269a5d606ade3c6a205a9d355e010c7",
+    "/assets/icons/icon-144x144.png": "cfffffe2e50b3fee83533c88af3febd38d705cca",
+    "/assets/icons/icon-152x152.png": "1ae6fdcc768677b367ea9c937c73f59cfc0a92ea",
+    "/assets/icons/icon-192x192.png": "2d2ac4643e814d122006d27ced065c731ecaaef1",
+    "/assets/icons/icon-384x384.png": "a182f29d6c0f8c2e6f422b7e847bac0e8a3a733c",
+    "/assets/icons/icon-512x512.png": "1cb3f38ca1299c86fcfc09512bafbc388f450f8c",
+    "/assets/icons/icon-72x72.png": "2f67848d6d8ebd3e979c91b6178f9df81c664aad",
+    "/assets/icons/icon-96x96.png": "0fab27859b12189812621b22d77900048f5fb319",
+    "/assets/images/default-user.png": "d67e61c3b7d1d51104a8a49f18bef77f2f89af57",
+    "/assets/images/login-background.jpg": "7bf49c823622a6a390638ddd4ed2d1efb44457c0",
+    "/assets/images/register-background.jpg": "e1169f410da73e41b04c9243e89d8a7f37d4e754",
+    "/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/favicon.ico": "936a031a85a4d7fa87ce5664a798cc57504d4b9c",
+    "/index.html": "77114697cc4bd3e766e31e526f464ee328afe635",
+    "/login-background.0cd4b32f27a02a187384.jpg": "7bf49c823622a6a390638ddd4ed2d1efb44457c0",
+    "/main.fe6afe71a4391b419264.js": "82ba8340bf0e3685adcc8c58873f58d058f409fb",
+    "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/register-background.c8908b2ad2922822ae5e.jpg": "e1169f410da73e41b04c9243e89d8a7f37d4e754",
+    "/runtime.8791bb6c2cf1861bef56.js": "fdf8cb50d6bbe0dcb99478e8cf64e0758f71adda",
+    "/styles.038a72fc6e916ec64f54.css": "4f920191336b19df32d2f0579598d75fdb32cde6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
